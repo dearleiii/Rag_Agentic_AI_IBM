@@ -1,4 +1,4 @@
-A complete multimodal Retrieval-Augmented Generation (RAG) pipeline for fashion analysis
+## A complete multimodal Retrieval-Augmented Generation (RAG) pipeline for fashion analysis
 
 - Implement a complete multimodal RAG pipeline integrating computer vision with structured fashion datasets
 
@@ -12,7 +12,7 @@ A complete multimodal Retrieval-Augmented Generation (RAG) pipeline for fashion 
 
 - Gain practical experience with state-of-the-art multimodal AI techniques
 
-
+![example result2](ims/multimodal_rag.png)
 
 This project is using Meta's Llama 3.2 90B Vision Instruct model, this system identifies clothing items, retrieves relevant metadata, and provides actionable insights based on visual inputs.
 
